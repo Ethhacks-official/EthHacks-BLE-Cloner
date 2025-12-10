@@ -1,6 +1,6 @@
 # EthHacks BLE Cloner
 
-A esp32 microcontroller based BLE Beacons cloner that uses esp32 device to scan for nearby BLE Beacons and than clone and advertise exactly similar BLE Beacons and behave like similar BLE Device. If you want to contribute to this project, feel free to contact by mailing to 'siayam@ethhacks.net'
+A esp32 microcontroller based BLE Beacons cloner that uses esp32 device to scan for nearby BLE Beacons and than clone and advertise exactly similar BLE Beacons and behave like similar BLE Device. If you want to contribute to this project, feel free to contact by mailing to 'siayam@ethhacks.net'. Also, This tool is completely for educational and awareness purposes.
 
 * Build using ESP-IDF v6
 * Tested On: Esp32 Wroom
